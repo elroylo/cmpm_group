@@ -1,1 +1,1 @@
-# cmpm_2nd_draft
+# group repo for cmpm project
